@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sarahlacoffrette/Documents/MLOPS/mlruns/0/e375072bae1949568adc8291351b9aa0/artifacts
+end_time: 1731525572826
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e375072bae1949568adc8291351b9aa0
+run_name: Naive_Bayes_Spam_Classifier
+run_uuid: e375072bae1949568adc8291351b9aa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731525567948
+status: 3
+tags: []
+user_id: sarahlacoffrette
